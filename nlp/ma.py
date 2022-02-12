@@ -22,7 +22,7 @@ class nlp:
 
 if __name__ == "__main__":
     nlp=nlp()
-    norm_doc=nlp.change_hg("ㅠㅠ 보고싶어... 지금 어디야?")
+    norm_doc=nlp.change_hg("ㅠㅠ 아메리카노가 생각나는 밤이야 보고싶어... 지금 어디야?")
     sents=nlp.split_sent(norm_doc)
     result=nlp.run_ma_array(sents)
     print(result)
