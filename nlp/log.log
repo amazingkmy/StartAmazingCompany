@@ -1,0 +1,12 @@
+nohup: ignoring input
+['./data//951690_100000.xml', './data//951690_1000000.xml', './data//951690_1050000.xml', './data//951690_1100000.xml', './data//951690_1150000.xml', './data//951690_1155705.xml', './data//951690_150000.xml', './data//951690_200000.xml', './data//951690_250000.xml', './data//951690_300000.xml', './data//951690_350000.xml', './data//951690_400000.xml', './data//951690_450000.xml', './data//951690_50000.xml', './data//951690_500000.xml', './data//951690_550000.xml', './data//951690_600000.xml', './data//951690_650000.xml', './data//951690_700000.xml', './data//951690_750000.xml', './data//951690_800000.xml', './data//951690_850000.xml', './data//951690_900000.xml', './data//951690_950000.xml', './data//opendict.zip']
+Traceback (most recent call last):
+  File "make_opendict.py", line 58, in <module>
+    xmllist = read_xml(inputfiles)
+  File "make_opendict.py", line 20, in read_xml
+    print(filename)
+  File "/opt/conda/lib/python3.8/xml/etree/ElementTree.py", line 1202, in parse
+    tree.parse(source, parser)
+  File "/opt/conda/lib/python3.8/xml/etree/ElementTree.py", line 595, in parse
+    self._root = parser._parse_whole(source)
+xml.etree.ElementTree.ParseError: not well-formed (invalid token): line 1, column 2

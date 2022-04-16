@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+	<item>
+		<target_code>813221</target_code>
+		<group_code>90808</group_code>
+		<group_order>1</group_order>
+		<link><![CDATA[http://opendict.korean.go.kr/dictionary/view?sense_no=813221]]></link>
+		<wordInfo>
+			<word><![CDATA[관련-인]]></word>
+			<word_unit>어휘</word_unit>
+			<word_type>한자어</word_type>
+			<original_language_info>
+				<original_language><![CDATA[關聯人]]></original_language>
+				<language_type>한자</language_type>
+			</original_language_info>
+			<pronunciation_info>
+				<pronunciation><![CDATA[괄려닌]]></pronunciation>
+			</pronunciation_info>
+		</wordInfo>
+		<senseInfo>
+			<sense_no>001</sense_no>
+			<pos>명사</pos>
+			<type>일반어</type>
+			<definition><![CDATA[어떤 사건, 현상 따위에 관계를 맺고 있는 사람.]]></definition>
+			<definition_original><![CDATA[어떤 사건, 현상 따위에 관계를 맺고 있는 사람.]]></definition_original>
+			<example_info>
+				<example><![CDATA[제주시 관계자는 “{관련인이} 파산 등으로 경제력이 전혀 없거나 사망 등으로 인해 세금을 받을 수 없을 것으로 판정되면 결손 처분을 하고 있다.”라고 말했다.]]></example>
+				<source><![CDATA[연합뉴스 1993년 5월]]></source>
+			</example_info>
+			<example_info>
+				<example><![CDATA[호텔에 수사 본부가 차려지고, 호텔로 {관련인을} 불러다 조사를 한 것은 뒤가 구린 일이 공개되지 않도록 하기 위한 보안상 문제였을 것이다.]]></example>
+				<source><![CDATA[프런티어타임스 2011년 12월]]></source>
+			</example_info>
+			<relation_info>
+				<word><![CDATA[관련-자001]]></word>
+				<type>비슷한말</type>
+				<link_target_code>599280</link_target_code>
+				<link><![CDATA[http://opendict.korean.go.kr/dictionary/view?sense_no=599280]]></link>
+			</relation_info>
+			<relation_info>
+				<word><![CDATA[사람001]]></word>
+				<type>상위어</type>
+				<link_target_code>12170</link_target_code>
+				<link><![CDATA[http://opendict.korean.go.kr/dictionary/view?sense_no=12170]]></link>
+			</relation_info>
+		</senseInfo>
+	</item>
+</channel>
